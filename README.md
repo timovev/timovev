@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Тимове</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Тимове(Timo)</h1>
+<h3 align="center">Hi, I'm Python Developer In Germany</h3>
 
 <p align="left"> <a href="https://twitter.com/timovehelp" target="blank"><img src="https://img.shields.io/twitter/follow/timovehelp?logo=twitter&style=for-the-badge" alt="timovehelp" /></a> </p>
 
