@@ -26,3 +26,8 @@
 
 
 [![Spotify](https://vercel.com/timootmm/novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Тимове)
+
+
+### Playing Spotify 🎧
+
+[![Spotify](https://novatorem-3imbzd4ji-timoves-projects.vercel.app/api/spotify)](https://open.spotify.com/user/315nzt4csmzhvrfggqxbpd7c76qy)
