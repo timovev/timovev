@@ -7,8 +7,16 @@
 
 - 🌱 I’m currently learning **Py-cord**
 
-- 📫 du kannst mich unter dieser Email erreichen **timovehelp@gmail.com**
-
+- 📫 How to reach me:  
+  
+   - You can also contact me via email: `timovehelp@gmail.com`
+   - Send me a Direct Message on [Discord](https://discord.com): [`Тимове(Timo)`](https://discord.com/users/1078242409495932969) 
+  
+     <center> 
+       <a href='https://discord.gg/VAR8sutF'> 
+         <img src="https://discord.c99.nl/widget/theme-1/1078242409495932969.png" style='padding: 5px'> 
+       </a> 
+     </center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/timovehelp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timovehelp" height="30" width="40" /></a>
