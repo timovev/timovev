@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/timovehelp" target="blank"><img src="https://img.shields.io/twitter/follow/timovehelp?logo=twitter&style=for-the-badge" alt="timovehelp" /></a> </p>
 
-- Ich arbeite gerade an **FroZen Crystal**
+- I'm working on right now **FroZen Crystal**
 
-- 🌱 I’m currently learning **Py-cord**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me:  
   
