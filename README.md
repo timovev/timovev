@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/timovehelp" target="blank"><img src="https://img.shields.io/twitter/follow/timovehelp?logo=twitter&style=for-the-badge" alt="timovehelp" /></a> </p>
 
-- I'm working on right now **FroZen Crystal**
+- 🔭 I’m currently working on **FroZen Crystal**
 
 - 🌱 I’m currently learning **Python**
 
