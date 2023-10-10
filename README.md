@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Тимове(Timo)</h1>
 <h3 align="center">Hi, I'm Python Developer In Germany</h3>
 
-<h3 align="left">IDE:</h3>
-<p align="left">
-<a target="blank"><img align="center" src="https://img.shields.io/badge/%20VISUAL%20STUDIO%20CODE--blue?style=for-the-badge&logo=visualstudiocode&labelColor=blue&color=blue" alt="timovehelp" height="30" width="220" /></a>
-<a
-<a target="blank"><img align="center" src="https://img.shields.io/badge/PyCharm-darkgreen?style=for-the-badge&logo=pycharm&labelColor=darkgreen" alt="timovehelp" height="30" width="230" /></a>
-<a
 
 - 🔭 I’m currently working on **FroZen Crystal**
 
@@ -37,6 +31,13 @@
 
 
 ![Static Badge](https://img.shields.io/badge/%20VISUAL%20STUDIO%20CODE--blue?style=for-the-badge&logo=visualstudiocode&labelColor=blue&color=blue)
+
+<h3 align="left">IDE:</h3>
+<p align="left">
+<a target="blank"><img align="center" src="https://img.shields.io/badge/%20VISUAL%20STUDIO%20CODE--blue?style=for-the-badge&logo=visualstudiocode&labelColor=blue&color=blue" alt="timovehelp" height="30" width="220" /></a>
+<a
+<a target="blank"><img align="center" src="https://img.shields.io/badge/PyCharm-darkgreen?style=for-the-badge&logo=pycharm&labelColor=darkgreen" alt="timovehelp" height="30" width="230" /></a>
+<a
 
 
 
