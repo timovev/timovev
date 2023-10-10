@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Тимове(Timo)</h1>
 <h3 align="center">Hi, I'm Python Developer In Germany</h3>
 
-
-![Bsc]()
-
-
 <h3 align="left">IDE:</h3>
 <p align="left">
 <a target="blank"><img align="center" src="https://img.shields.io/badge/%20VISUAL%20STUDIO%20CODE--blue?style=for-the-badge&logo=visualstudiocode&labelColor=blue&color=blue" alt="timovehelp" height="30" width="40" /></a>
