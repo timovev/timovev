@@ -6,9 +6,6 @@
 <a target="blank"><img align="center" src="https://img.shields.io/badge/%20VISUAL%20STUDIO%20CODE--blue?style=for-the-badge&logo=visualstudiocode&labelColor=blue&color=blue" alt="timovehelp" height="30" width="40" /></a>
 <a
 
-
-<p align="left"> <a href="https://twitter.com/timovehelp" target="blank"><img src="https://img.shields.io/twitter/follow/timovehelp?logo=twitter&style=for-the-badge" alt="timovehelp" /></a> </p>
-
 - 🔭 I’m currently working on **FroZen Crystal**
 
 - 🌱 I’m currently learning **Python**
