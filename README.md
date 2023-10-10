@@ -2,9 +2,13 @@
 <h3 align="center">Hi, I'm Python Developer In Germany</h3>
 
 
-href="https://t" target="blank"><img src="https://img.shields.io/badge/%20VISUAL%20STUDIO%20CODE--blue?style=for-the-badge&logo=visualstudiocode&labelColor=blue&color=blue" alt="vsc" /></a> </p>
-
 ![Bsc]()
+
+
+<h3 align="left">IDE:</h3>
+<p align="left">
+<a target="blank"><img align="center" src="https://img.shields.io/badge/%20VISUAL%20STUDIO%20CODE--blue?style=for-the-badge&logo=visualstudiocode&labelColor=blue&color=blue" alt="timovehelp" height="30" width="40" /></a>
+<a
 
 
 <p align="left"> <a href="https://twitter.com/timovehelp" target="blank"><img src="https://img.shields.io/twitter/follow/timovehelp?logo=twitter&style=for-the-badge" alt="timovehelp" /></a> </p>
