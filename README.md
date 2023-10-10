@@ -38,6 +38,7 @@
 <a
 <a target="blank"><img align="center" src="https://img.shields.io/badge/PyCharm-darkgreen?style=for-the-badge&logo=pycharm&labelColor=darkgreen" alt="timovehelp" height="30" width="230" /></a>
 <a
+</p>
 
 
 
