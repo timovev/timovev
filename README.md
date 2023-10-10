@@ -3,7 +3,7 @@
 
 <h3 align="left">IDE:</h3>
 <p align="left">
-<a target="blank"><img align="center" src="https://img.shields.io/badge/%20VISUAL%20STUDIO%20CODE--blue?style=for-the-badge&logo=visualstudiocode&labelColor=blue&color=blue" alt="timovehelp" height="30" width="230" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/%20VISUAL%20STUDIO%20CODE--blue?style=for-the-badge&logo=visualstudiocode&labelColor=blue&color=blue" alt="timovehelp" height="30" width="220" /></a>
 <a
 
 - 🔭 I’m currently working on **FroZen Crystal**
